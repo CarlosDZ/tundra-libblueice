@@ -1,0 +1,7 @@
+name=tundra-libblueice
+author=CarlosDZ
+version=0.1_0
+v_date=2026-11-11
+license=GPL-3.0-or-later
+depends=
+description=Alert format library of tundra-blueice for Tundra OS
