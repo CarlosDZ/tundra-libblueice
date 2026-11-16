@@ -28,7 +28,6 @@ struct blueice_alert {
 	int bad;
 };
 
-/* The fields of a received line that decide what is done with it. */
 struct blueice_parsed {
 	int level;
 	enum blueice_action action;
